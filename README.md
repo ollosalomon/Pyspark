@@ -38,5 +38,4 @@ Avant de commencer, assure-toi d’avoir installé :
 ## **📦 Installation et Démarrage**
 ### **1️⃣ Cloner le projet**
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/ollosalomon/Pyspark.git
