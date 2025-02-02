@@ -1,0 +1,34 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+*.env
+
+# Log files
+logs/*
+!logs/.gitkeep
+
+# Dags cache files
+dags/__pycache__/
+
+# IDE configuration files
+.vscode/
+.idea/
+
+# Generated files
+*.egg-info/
+dist/
+build/
+
+# Databases
+*.db
+*.sqlite
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
